@@ -2,9 +2,9 @@
 
 ## Description
 
--A note journal easily accesible on any device was needed
-- I built the project to mantain a level head throughput my Bootcamp and keep my notes in one place
-- This application can be used to store notes and ideas for someone like me going through a Bootcamp, solving unorganized desktops
+- A note journal easily accesible on any device was needed
+- I built the project to mantain a level head throughout the bootcamp course and needed a place to keep my notes in one place
+- This application can be used to store notes and ideas for someone like me going through a Bootcamp
 -Hands on experience with HTML, CSS, Git, and JavaScript
 ## Installation
 
